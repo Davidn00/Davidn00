@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Angel David Núñez Paredes</h1>
 
-<h3 align="center">Python Backend Developer | Software Engineer | Biomedical & Instrumentation Software</h3>
+<h3 align="center">Software Engineer | Python Backend Developer | Biomedical & Instrumentation Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/](https://dov62esnlp0xr.cloudfront.net">Professional        Portfolio</a>
-  <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/">LinkedIn</a>
-  <a href="https://github.com/Davidn00">GitHub</a> •
+  • <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/](https://dov62esnlp0xr.cloudfront.net">Professional        Portfolio</a> •
+  <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/">LinkedIn</a> •
+  <a href="https://github.com/Davidn00">GitHub</a> 
   
 </p>
 
@@ -24,7 +24,7 @@ My main focus is **Python backend development**: designing REST APIs, organizing
 - **Quality & delivery:** Pytest, Ruff, Bandit, Docker, GitHub Actions, CI/CD
 - **Scientific software:** NumPy, SciPy, Pandas, signal processing, FFT, spectral analysis
 - **Also experienced with:** C, C#, embedded systems, microcontrollers, and biomedical instrumentation
-- **Cloud:** Render and Neon for portfolio deployment configuration; AWS is a planned target for InstrumentHub deployment.
+- **Cloud:** AWS (EC2, S3, Lambda, RDS), Render, Neon.
 
 ## Featured Projects
 
@@ -85,8 +85,6 @@ An embedded digital thermometer using a PIC18F4550 microcontroller, with tempera
 Explore my repositories for additional work in biomedical instrumentation, firmware, and software tools:
 
 - [All repositories](https://github.com/Davidn00?tab=repositories)
-- [Multireader Biosensors](https://github.com/Davidn00/multireader_biosensors)
-- [ProWash Firmware](https://github.com/Davidn00/firmware_ProWash)
 
 ## Technical Skills
 
@@ -100,7 +98,7 @@ Explore my repositories for additional work in biomedical instrumentation, firmw
 | Frontend | React, TypeScript, Vite, TanStack Query, Tailwind CSS, Plotly.js |
 | Testing & code quality | Pytest, Ruff, MyPy, Bandit |
 | DevOps & delivery | Docker, Docker Compose, Git, GitHub Actions, CI/CD |
-| Cloud | Render, Neon; AWS planned for InstrumentHub |
+| Cloud |  AWS, Render, Neon |
 | Embedded & instrumentation | C, PIC microcontrollers, STM32, serial communication, biomedical instrumentation |
 
 ## Education
