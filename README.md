@@ -3,8 +3,10 @@
 <h3 align="center">Python Backend Developer | Software Engineer | Biomedical & Instrumentation Software</h3>
 
 <p align="center">
-  <a href="https://github.com/Davidn00">GitHub</a> •
+  <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/](https://dov62esnlp0xr.cloudfront.net">Professional        Portfolio</a>
   <a href="https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/">LinkedIn</a>
+  <a href="https://github.com/Davidn00">GitHub</a> •
+  
 </p>
 
 ---
