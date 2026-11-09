@@ -108,6 +108,7 @@ Explore my repositories for additional work in biomedical instrumentation, firmw
 
 ## Let's Connect
 
+- **Portfolio:** [Visit my professional portfolio](https://dov62esnlp0xr.cloudfront.net)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/angel-david-n%C3%BA%C3%B1ez-paredes-03918b372/)
 - **GitHub:** [Explore my projects](https://github.com/Davidn00)
 
